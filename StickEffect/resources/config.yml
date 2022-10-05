@@ -1,0 +1,7 @@
+# Author: Tazz
+# Message after use
+stickmsgforce: "§6- §fStick used §6-"
+# cooldown
+cooldownforce: 15
+# Cooldown Message
+cooldownmsgforce: "You have to Wait §6{time} secondes§f"

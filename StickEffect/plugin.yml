@@ -1,0 +1,5 @@
+name: StickEffect
+version: 1.0.0
+main: StickEffect\Main
+author: Tazz
+api: 4.0.0
